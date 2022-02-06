@@ -1,0 +1,3 @@
+C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/CMakeFiles/computer_found.dir
+C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/CMakeFiles/rebuild_cache.dir

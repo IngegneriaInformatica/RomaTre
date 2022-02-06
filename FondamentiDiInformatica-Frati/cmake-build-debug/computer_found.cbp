@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="computer_found"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="computer_found">
+				<Option output="C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/computer_found.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/andre/OneDrive/Documents/Code/computer-found/MCM"/>
+					<Add directory="C:/Users/andre/OneDrive/Documents/Code/computer-found/sommaElementiArray"/>
+					<Add directory="C:/Users/andre/OneDrive/Documents/Code/computer-found/sommaPositivi"/>
+					<Add directory="C:/Users/andre/OneDrive/Documents/Code/computer-found/triplicaElementiSequenza"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/Makefile&quot;  VERBOSE=1 computer_found"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="computer_found/fast">
+				<Option output="C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/computer_found.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/andre/OneDrive/Documents/Code/computer-found/MCM"/>
+					<Add directory="C:/Users/andre/OneDrive/Documents/Code/computer-found/sommaElementiArray"/>
+					<Add directory="C:/Users/andre/OneDrive/Documents/Code/computer-found/sommaPositivi"/>
+					<Add directory="C:/Users/andre/OneDrive/Documents/Code/computer-found/triplicaElementiSequenza"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/Makefile&quot;  VERBOSE=1 computer_found/fast"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/andre/OneDrive/Documents/Code/computer-found/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/100Interi/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/3Uguali/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/ArrayConRiallocazioni1/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/ArrayConRiallocazioni2/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/ArrayDinamico/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/ArrayPuntatori/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/ArraySuFileBinario/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/ArraySuFileTestuale/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/AsteriscoNonAlfabetico/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/BubbleSort/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/Bug/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/Cerchi/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/ConsecutiviUguali/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/ContaCaratteriNumerici/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/ContaCaratteriStringa/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/ContaCifre/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/ContaSequenze/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/ConversioneBase10-Base2/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/ConvertiArrayNumero/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/ConvertiNumeroArray/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/CoordinateGeografiche/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/CopiaFile/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/CrescentePiuLunga/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/DanglingPointer/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/DecodificaBinaria/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/DifferenzaAdiacenti/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/DifferenzaNumerici/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/Disposizioni/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/DistanzaDuePunti/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/DistanzaMinima/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/DividiInteri/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/Divisibili/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/DoppiaStringa/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/ElencoPersone/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/EliminaNonNumerici/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/EsercitazioneRicorsione/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/Fattoriale/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/Fibonacci/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/FibonacciIterativo/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/GestorePolinomi/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/InsertionSort/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/Intervalli/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/InvertiStringa/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/LeggiEOrdinaPunti/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/LeggiStampa/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/LeggiStampaInteri/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/LeggiVisualizza/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/ListaDellaSpesa/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/Liste_Funzioni/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/Liste_FunzioniNodoFittizio/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/Liste_FunzioniRicorsive/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/MCD/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/MCM/ControlloNumeri.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/MCM/Header.h">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/MCM/MCD.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/MCM/MCM.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/MCM/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/MaggioreMinore/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/MergeSort/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/MinMax/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/MinimoSequenza/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/Multiplodi3Positivo/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/NienteDoppieMaiuscole/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/NumeriReali/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/NumeriRealiProf/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/NumeroPositivi/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/Palindroma/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/Persone/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/Potenza/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/PrimoProgetto/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/Prodotto/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/PuntatoriBasics/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/QuickSort/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/QuizSomma/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/RaddoppiatoreArray/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/RaddoppiatorePerIndirizzo/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/RaddoppiatorePerValore/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/SelectionSort/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/SelectionSortBetter/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/SelectionSortRecursive/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/SequenzaCrescente/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/SommaMassima3Consecutivi/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/SommaProdotto/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/SommaTriple/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/StampaArray/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/TorreDiHanoi/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/TriplePariDispari/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/TripleProdottoMeno12/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/TripleSomma10/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/TripleSomma6/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/TutteCifre/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/TuttiPari1/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/TuttiPari2/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/TuttiPari3/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/UgualeSommaPrecedenti/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/isPrimo/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/prodottoMatrici/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/sommaElementiArray/headerSommaElementiArray.h">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/sommaElementiArray/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/sommaElementiArray/sommaElementi.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/sommaPositivi/HeaderSommaPositivi.h">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/sommaPositivi/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/sommaPositivi/sommaPositivi.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/triplicaElementiSequenza/headerTriplicaElementiSequenza.h">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/triplicaElementiSequenza/main.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/triplicaElementiSequenza/triplicaElementi.c">
+			<Option target="computer_found"/>
+		</Unit>
+		<Unit filename="C:/Users/andre/OneDrive/Documents/Code/computer-found/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
